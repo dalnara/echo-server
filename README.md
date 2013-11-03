@@ -8,4 +8,4 @@ A simple echo server implementation.
 2. Run runtest.ru
 
 
-## runtest.ru compliles server.cpp and runs automated tests for this server. ##
+runtest.ru compliles server.cpp and runs automated tests for this server
